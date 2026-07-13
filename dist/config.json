@@ -1,0 +1,5 @@
+{
+  "name": "shox",
+  "server_url": "wss://remote-server-production-8410.up.railway.app/ws",
+  "secret_key": "Zafarjon1224"
+}
